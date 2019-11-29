@@ -29,7 +29,7 @@
             ?>
         </table>
         <hr>
-        <form action="teacher.php" method="post">
+        <form action="student.php" method="post">
                 Name-:<input type="text" name="name" required> Password-:<input type="password" name="pwd" required>   <input type="submit" value="add" name="submit">
         </form>
     </body>
